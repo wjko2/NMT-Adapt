@@ -1,2 +1,0 @@
-# NMT-Adapt
-# NMTAdapt
